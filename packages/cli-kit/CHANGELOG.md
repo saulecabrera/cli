@@ -1,5 +1,15 @@
 # @shopify/cli-kit
 
+## 3.67.0
+
+### Minor Changes
+
+- e9aeab01: Ensure output is also interactive when prompting
+
+### Patch Changes
+
+- 435c88bf: Fix customer login functionality during development
+
 ## 3.66.0
 
 ### Minor Changes
