@@ -1,5 +1,26 @@
 # @shopify/app
 
+## 3.67.0
+
+### Minor Changes
+
+- e9aeab01: Ensure output is also interactive when prompting
+
+### Patch Changes
+
+- 60ff8754: Bump Shopify/theme-tools packages
+- 57e497b3: Add proper user-agent header for pollAppLogs
+- 97aade12: Remove duplicated slashes when deploying webhooks with relative URIs
+- 3c35e6e3: Ensure Javy is always installed before running it
+- 30b000f0: Allow managed stores
+- Updated dependencies [435c88bf]
+- Updated dependencies [60ff8754]
+- Updated dependencies [e9aeab01]
+  - @shopify/cli-kit@3.67.0
+  - @shopify/theme@3.67.0
+  - @shopify/create-app@3.67.0
+  - @shopify/plugin-cloudflare@3.67.0
+
 ## 3.66.0
 
 ### Minor Changes
